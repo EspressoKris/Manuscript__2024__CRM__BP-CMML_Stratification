@@ -18,7 +18,7 @@ Daniel Wiseman (daniel.wiseman@manchester.ac.uk)
 
 ## Graphical Abstract: 
 <p align="center">
-  <img src="https://github.com/uom-eoh-lab-published/2024__CRM__BP-CMML_Manuscript/blob/main/Graphical_Abstract.png" width="465" height="465">
+  <img src="https://github.com/EspressoKris/Manuscript__2024__CRM__BP-CMML_Stratification/blob/main/Graphical_Abstract.png" width="465" height="465">
 </p>
 
 ## Publication link:
@@ -33,7 +33,7 @@ This is the code repository for the manuscript on BP-CMML stratification submitt
 1) Clone the GitHub repository as follows:
 
 ```
-git clone https://github.com/uom-eoh-lab-published/2024__CRM__BP-CMML_Manuscript.git
+git clone https://github.com/EspressoKris/Manuscript__2024__CRM__BP-CMML_Stratification.git
 ```
 
 2) Access the cloned directory, download and decompress the processed input data deposited in the following Mendeley Data repository: [Link to repository](https://doi.org/10.17632/vcsyd7ns8f)
@@ -52,9 +52,9 @@ unzip Data.zip
 
   - **MacOSX/Windows:**  
 
-    Please verify that your R and packages version match those used to generate figures in the manuscript - [Check exemplar session info](https://github.com/uom-eoh-lab-published/2024__CRM__BP-CMML_Manuscript/blob/main/Scripts/Fig_01_Fig_S1/Fig_01_ABE_Fig_S1_SessionInfo.txt)  
+    Please verify that your R and packages version match those used to generate figures in the manuscript - [Check exemplar session info](https://github.com/EspressoKris/Manuscript__2024__CRM__BP-CMML_Stratification/blob/main/Scripts/Fig_01_Fig_S1/Fig_01_ABE_Fig_S1_SessionInfo.txt)  
 
-    Installation of python is only required to produce [Fig2C](https://github.com/uom-eoh-lab-published/2024__CRM__BP-CMML_Manuscript/blob/main/Figures/Fig_02/Panel_C.png) and [FigS5](https://github.com/uom-eoh-lab-published/2024__CRM__BP-CMML_Manuscript/blob/main/Figures/Supplemental/Fig_S5.png). To ensure reproducibility please create a Python environment with kaleido or verify that your Python modules version match those used to generate the above figures - [Check our conda requirements](https://github.com/uom-eoh-lab-published/2024__CRM__BP-CMML_Manuscript/blob/main/python_conda_env_requirements.txt)  
+    Installation of python is only required to produce [Fig2C](https://github.com/EspressoKris/Manuscript__2024__CRM__BP-CMML_Stratification/blob/main/Figures/Fig_02/Panel_C.png) and [FigS5](https://github.com/EspressoKris/Manuscript__2024__CRM__BP-CMML_Stratification/blob/main/Figures/Supplemental/Fig_S5.png). To ensure reproducibility please create a Python environment with kaleido or verify that your Python modules version match those used to generate the above figures - [Check our conda requirements](https://github.com/EspressoKris/Manuscript__2024__CRM__BP-CMML_Stratification/blob/main/python_conda_env_requirements.txt)  
 
 ---
 
